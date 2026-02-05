@@ -1,6 +1,8 @@
 # Dogs vs. Humans: Saccade & Fixation Analysis (Work in Progress)
 https://soonyoungpark.shinyapps.io/DogsVHumansSaccades/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.15652749)
+
 Interactive R Shiny Dashboard for Comparative Eye-Tracking Data
 
 1. Project Overview
