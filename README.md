@@ -1,4 +1,5 @@
-# Dogs vs. Humans: Saccade & Fixation Analysis (in development)
+# Dogs vs. Humans: Saccade & Fixation Analysis (Work in Progress)
+
 Interactive R Shiny Dashboard for Comparative Eye-Tracking Data
 
 1. Project Overview
